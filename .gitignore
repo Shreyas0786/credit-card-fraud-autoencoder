@@ -1,0 +1,28 @@
+# Dataset (large, download manually from Kaggle — see README)
+data/*
+!data/.gitkeep
+
+# Model artifacts
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter / IDE / OS
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# Test / cache
+.pytest_cache/
+.mypy_cache/
+
+# Slides: keep the final PDF, ignore the working outline
+slides/*.md

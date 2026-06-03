@@ -1,0 +1,11 @@
+# Pinned dependencies for the fraud-autoencoder MRP.
+# Python 3.10+ (developed on 3.11).
+# Install:  pip install -r requirements.txt
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+torch==2.2.2
+matplotlib==3.8.4
+streamlit==1.34.0
+pytest==8.2.0
