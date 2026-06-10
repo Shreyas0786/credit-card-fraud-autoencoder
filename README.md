@@ -95,7 +95,7 @@ metrics, and that all plots are produced.
 
 ## Links
 
-- **Slide deck (PDF):** included in this repository (`slides/`)
+- **Slide deck (PDF):** included in this repository
 - **Demo video:** <https://drive.google.com/file/d/1l9kIxUanHqpch9oMGcSDYbWgR-Yyly48/view?usp=sharing>
 - **Code:** this repository
 
