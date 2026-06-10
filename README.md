@@ -95,8 +95,8 @@ metrics, and that all plots are produced.
 
 ## Links
 
-- **Slide deck (PDF):** _TBD — see `slides/`_
-- **YouTube demo:** _TBD_
+- **Slide deck (PDF):** included in this repository (`slides/`)
+- **Demo video:** <https://drive.google.com/file/d/1l9kIxUanHqpch9oMGcSDYbWgR-Yyly48/view?usp=sharing>
 - **Code:** this repository
 
 ---
